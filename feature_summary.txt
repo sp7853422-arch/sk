@@ -1,0 +1,25 @@
+Top 5 Influential Features from SHAP Analysis
+This summary highlights the five most impactful features identified using SHAP global interpretability for the student pass/fail prediction model. Each feature is explained in terms of its relationship with the prediction target.
+1. Study Time
+Definition: Number of hours a student dedicates to studying per week.
+
+Impact: Higher study time strongly increases the likelihood of passing.
+
+2. Absences
+Definition: Total number of school days missed.
+
+Impact: More absences significantly reduce the probability of passing.
+
+3. Parental Education
+Definition: Highest education level attained by the student's parents.
+
+Impact: Higher parental education correlates with better academic outcomes and increased pass probability.
+4. Test Score
+Definition: Final exam or assessment score.
+
+Impact: Higher scores directly boost the chance of passing.
+
+5. Internet Access
+Definition: Whether the student has reliable internet access at home.
+
+Impact: Lack of internet access is associated with lower pass rates due to limited learning resources.
